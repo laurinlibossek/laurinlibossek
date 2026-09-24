@@ -4,6 +4,7 @@ Business & computer science at TUM, focused on applied AI. I design and ship sof
 
 **Selected work**
 
+- [Setlog](https://github.com/laurinlibossek/setlog) ([live app](https://laurinlibossek.github.io/setlog/)): offline-first workout tracker for iPhone, built as a Progressive Web App (JavaScript, IndexedDB)
 - [QuantCraft](https://github.com/laurinlibossek/QuantCraft): stock market simulation with order book, margin-based short selling and automated market making (Java, Fabric)
 - [bruce-macOS-companion](https://github.com/laurinlibossek/bruce-macOS-companion): native SwiftUI client for ESP32 hardware over a custom Bluetooth LE serial protocol
 - [heirloom-sword](https://github.com/laurinlibossek/heirloom-sword): NeoForge mod with a telekinetic flying-blade combat system (Java, GeckoLib)
